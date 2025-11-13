@@ -4,8 +4,16 @@ public class App {
         
 
     // kommentteja tehtävien tekemisestä
-    // ensimmäinen muutos
+    ensimmainenMuutos();
     // toinen muutos
     // kolmas muutos jne. poistetaan sitä mukaa kun tehdään
     }
+
+
+    //Ensimmäinen muutos
+    public static void ensimmainenMuutos(){
+    System.out.println("Tämä on Ensimmäinen muutos.");
+    }
 }
+
+
