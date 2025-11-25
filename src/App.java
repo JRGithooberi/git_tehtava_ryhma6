@@ -8,13 +8,20 @@ public class App {
     // toinen muutos
     String toinenmuutos = "Tässä on githubiin päivitys";
     System.out.println(toinenmuutos);
-    // kolmas muutos jne. poistetaan sitä mukaa kun tehdään
+    // kolmas muutos
+    kolmasMuutos();
     }
 
     //Ensimmäinen muutos
     public static void ensimmainenMuutos(){
     System.out.println("Tämä on Ensimmäinen muutos.");
     }
+    // Kolmas muutos
+    public static void kolmasMuutos() {
+        System.out.println("Tässä on kolmas muutos.");
+
+    }
+
 }
 
 
